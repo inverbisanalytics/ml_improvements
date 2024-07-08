@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/mycke/Documents/Inverbis/new_model/new_model/mlruns/0/fa2bed37f847487d807f87b1531e3ede/artifacts
+end_time: 1720165747674
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa2bed37f847487d807f87b1531e3ede
+run_name: upset-slug-594
+run_uuid: fa2bed37f847487d807f87b1531e3ede
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720165631052
+status: 3
+tags: []
+user_id: mycke

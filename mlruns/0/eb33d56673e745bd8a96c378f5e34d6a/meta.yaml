@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/mycke/Documents/Inverbis/new_model/new_model/mlruns/0/eb33d56673e745bd8a96c378f5e34d6a/artifacts
+end_time: 1720166065713
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb33d56673e745bd8a96c378f5e34d6a
+run_name: bedecked-shad-489
+run_uuid: eb33d56673e745bd8a96c378f5e34d6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720165958152
+status: 3
+tags: []
+user_id: mycke
